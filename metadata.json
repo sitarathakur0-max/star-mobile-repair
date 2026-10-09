@@ -1,0 +1,6 @@
+{
+  "name": "Star City Mobile Repairing",
+  "description": "Star City Mobile Repairing in Quetta provides mobile phone repair assistance for common screen, battery, charging, software and hardware issues.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
